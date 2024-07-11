@@ -82,6 +82,3 @@ This ensures that all necessary libraries (`pandas`, `streamlit`, `groq`, `sente
 
 The Groq API is utilized in both scripts (`app.py` and `main.py`) for generating responses to user queries based on the provided data. It is chosen for its availability as a free API, allowing developers to integrate natural language processing capabilities into their applications without cost.
 
----
-
-This documentation provides comprehensive information on setting up, configuring, and utilizing the Property Data Chatbot using `app.py` and `main.py`, including dependencies, environment variables, and the choice of Groq API for natural language processing tasks.
