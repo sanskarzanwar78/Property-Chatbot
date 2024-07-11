@@ -70,7 +70,7 @@ def get_groq_response(prompt):
         - Maintain a professional and informative tone.
         - If you don't have sufficient data to answer a question, acknowledge this and suggest the user provide more specific details.
 
-        The data you will be using includes information about users' holdings and recent trades. Use this data to provide insights, summaries, and relevant financial advice.
+        The data you will be using includes information about users' holdings and recent trades. Use this data to provide insights, summaries, and relevant property advice.
         """},
         {"role": "user", "content": prompt},
     ],
