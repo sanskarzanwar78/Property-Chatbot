@@ -1,0 +1,15 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore environment files
+.env
+
+# Ignore Obsidian vault
+.obsidian/
+
+# Ignore unnecessary files (examples)
+# You probably don't want to ignore chatbot.py, untitled.md, holdings.csv, trades.csv, and practice.ipynb if these are part of your project
+
+# Ignore API keys and sensitive files
+API.txt
