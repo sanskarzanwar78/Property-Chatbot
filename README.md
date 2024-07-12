@@ -29,6 +29,7 @@ This repository contains scripts (`app.py` and `main.py`) for deploying a Proper
 ```bash
 streamlit run app.py
 ```
+![image](https://github.com/user-attachments/assets/376f7949-fb52-4b83-99be-4fafcc7f8252)
 
 ## `main.py`
 
